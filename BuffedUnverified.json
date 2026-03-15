@@ -1,8 +1,8 @@
 [
     { "id": 135165984, "name": "KeananIsLowkShivering", "demon_type": 7, "rate": "mythic" },
     { "id": 129317413, "name": "Keanan Is Racist",  "demon_type": 7, "rate": "mythic" },
-    { "id": 132532863, "name": "Keanan Drop",  "demon_type": 7, "rate": "legendary" },
     { "id": 135638375, "name": "Nine Keys",  "demon_type": 7, "rate": "legendary" },
+    { "id": 132532863, "name": "Keanan Drop",  "demon_type": 7, "rate": "legendary" },
     { "id": 129707565, "name": "Keanan's Final Straw",  "demon_type": 7, "rate": "epic" },
     { "id": 132393059, "name": "KeaDuck V0rtr0x",  "demon_type": 7, "rate": "mythic" },  
     { "id": 132471191, "name": "ElectroKeanan",  "demon_type": 7, "rate": "feature" },
