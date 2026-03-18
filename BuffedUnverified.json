@@ -17,7 +17,8 @@
     { "id": 130250431, "name": "Krenono Tripple Buff",  "demon_type": 7, "rate": "epic" },
     { "id": 134524819, "name": "Empyrkean",  "demon_type": 7, "rate": "mythic" },
     { "id": 123646466, "name": "Keanan CLutterfunk",  "demon_type": 7, "rate": "epic" },
+    { "id": 135788052, "name": "Keanan Spaced Out",  "demon_type": 7, "rate": "mythic" },
     { "id": 131277954, "name": "Keanan Is Based",  "demon_type": 7, "rate": "legandary" },
     { "id": 123753221, "name": "Keananmare",  "demon_type": 7, "rate": "epic" },
-    { "id": 123646486, "name": "Keanan00 Dominator",  "demon_type": 7, "rate": "epic" }
+    { "id": 123646486, "name": "Keanan00 Dominator",  "demon_type": 6, "rate": "epic" }
 ]
