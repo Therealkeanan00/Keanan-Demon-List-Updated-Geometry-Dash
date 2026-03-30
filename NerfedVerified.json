@@ -1,5 +1,7 @@
 [
-    { "id": 135106600, "name": "Sakupen Keanan", "demon_type": 7, "rate": "featured" },
+    { "id": 135106600, "name": "Sakupen Keanan", "demon_type": 6, "rate": "featured" },
     { "id": 135762615, "name": "Shardskapes", "demon_type": 6, "rate": "epic" },
-    { "id": 135241711, "name": "Keanan Is Ron",  "demon_type": 6, "rate": "mythic" }
+    { "id": 135904450, "name": "Keanan Ship Trials",  "demon_type": 6, "rate": "legendary" },
+    { "id": 135241711, "name": "Keanan Is Ron",  "demon_type": 6, "rate": "mythic" },
+    { "id": 135358299, "name": "Keanan's Hell",  "demon_type": 6, "rate": "featured" },
 ]
