@@ -19,5 +19,5 @@
     { "id": 134617748, "name": "You've Been Keanan'd",  "demon_type": 5, "rate": "featured" },
     { "id": 130058295, "name": "Keanan's Clubtrap",  "demon_type": 5, "rate": "epic" },
     { "id": 133149552, "name": "The Party In Keany",  "demon_type": 4, "rate": "legendary" },
-    { "id": 137663424, "name": "Kears",  "demon_type": 5, "rate": "feature" }
+    { "id": 137663424, "name": "Kears",  "demon_type": 4, "rate": "feature" }
 ]
