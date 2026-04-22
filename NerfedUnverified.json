@@ -1,7 +1,8 @@
 [
     { "id": 137606675, "name": "Keanan Calamity",  "demon_type": 7, "rate": "legendary" },
-    { "id": 137795293, "name": "Keanan's Breaking Point",  "demon_type": 7, "rate": "mythic" },
+    { "id": 138535611, "name": "Keanan Silhouette",  "demon_type": 7, "rate": "epic" },
     { "id": 137397434, "name": "Keanan is Flarin'",  "demon_type": 7, "rate": "mythic" },
+    { "id": 137795293, "name": "Keanan's Breaking Point",  "demon_type": 7, "rate": "mythic" },
     { "id": 134973634, "name": "Keanan Wave Trials",  "demon_type": 7, "rate": "mythic" },
     { "id": 137480998, "name": "Keanan Decay's..",  "demon_type": 5, "rate": "epic" }
 ]
