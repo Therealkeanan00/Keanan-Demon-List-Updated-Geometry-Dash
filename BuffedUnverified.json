@@ -10,6 +10,7 @@
     { "id": 132471191, "name": "ElectroKeanan",  "demon_type": 7, "rate": "feature" },
     { "id": 133283938, "name": "Theory Of Keanan",  "demon_type": 7, "rate": "featured" },
     { "id": 133678715, "name": "Keanan Machine",  "demon_type": 7, "rate": "mythic" },
+    { "id": 138784079, "name": "Kilh0uette0 Karden0",  "demon_type": 7, "rate": "legandary" },
     { "id": 130337633, "name": "Keaann Is In HeLL",  "demon_type": 7, "rate": "legandary" },
     { "id": 129279251, "name": "Keanan's End Adventure",  "demon_type": 7, "rate": "feature" },
     { "id": 128546764, "name": "Keanan Is Bouncy UwU",  "demon_type": 7, "rate": "epic" },
@@ -19,12 +20,12 @@
     { "id": 136624345, "name": "KEANAN IS WET",  "demon_type": 7, "rate": "rated" },
     { "id": 137226785, "name": "Keanan Is Morphed",  "demon_type": 7, "rate": "rated" },
     { "id": 134524819, "name": "Empyrkean",  "demon_type": 7, "rate": "mythic" },
-    { "id": 123646486, "name": "Keanan00 Dominator",  "demon_type": 6, "rate": "epic" },
+    { "id": 138783706, "name": "Keanan Fire Head",  "demon_type": 7, "rate": "epic" },
+    { "id": 123646486, "name": "Keanan00 Dominator",  "demon_type": 7, "rate": "epic" },
     { "id": 135788052, "name": "Keanan Spaced Out",  "demon_type": 7, "rate": "mythic" },
     { "id": 123646466, "name": "Keanan CLutterfunk",  "demon_type": 7, "rate": "epic" },
     { "id": 131277954, "name": "Keanan Is Based",  "demon_type": 7, "rate": "legandary" },
     { "id": 136629316, "name": "Kash Full Version",  "demon_type": 7, "rate": "legandary" },
     { "id": 123753221, "name": "Keananmare",  "demon_type": 7, "rate": "epic" },
     { "id": 136328329, "name": "GREEN KEANAN",  "demon_type": 5, "rate": "featured" },
-    { "id": 137735286, "name": "Keanan's Pirate Raid",  "demon_type": 4, "rate": "epic" }
 ]
