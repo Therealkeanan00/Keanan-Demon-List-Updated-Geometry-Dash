@@ -1,9 +1,9 @@
 [
-    { "id": 138535611, "name": "Keanan Silhouette",  "demon_type": 7, "rate": "epic" },
-    { "id": 137823670, "name": "Keanifestation", "demon_type": 7, "rate": "legendary" },
-    { "id": 135106600, "name": "Sakupen Keanan", "demon_type": 6, "rate": "featured" },
-    { "id": 135762615, "name": "Shardskapes", "demon_type": 6, "rate": "epic" },
-    { "id": 135904450, "name": "Keanan Ship Trials",  "demon_type": 6, "rate": "legendary" },
-    { "id": 135241711, "name": "Keanan Is Ron",  "demon_type": 6, "rate": "mythic" },
-    { "id": 135358299, "name": "Keanan's Hell",  "demon_type": 6, "rate": "featured" }
+    { "id": 138535611, "name": "Keanan Silhouette",  "demon_type": 7, "rate": "epic", "ptsBeat": 15 },
+    { "id": 137823670, "name": "Keanifestation", "demon_type": 7, "rate": "legendary", "ptsBeat": 15 },
+    { "id": 135106600, "name": "Sakupen Keanan", "demon_type": 6, "rate": "featured", "ptsBeat": 14 },
+    { "id": 135762615, "name": "Shardskapes", "demon_type": 6, "rate": "epic", "ptsBeat": 14 },
+    { "id": 135904450, "name": "Keanan Ship Trials",  "demon_type": 6, "rate": "legendary", "ptsBeat": 14 },
+    { "id": 135241711, "name": "Keanan Is Ron",  "demon_type": 6, "rate": "mythic", "ptsBeat": 8 },
+    { "id": 135358299, "name": "Keanan's Hell",  "demon_type": 6, "rate": "featured", "ptsBeat": 8 }
 ]
