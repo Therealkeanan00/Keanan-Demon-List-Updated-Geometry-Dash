@@ -5,6 +5,7 @@
     { "id": 123646413, "name": "Krenono Buffed Buffed",  "demon_type": 7, "rate": "featured", "ptsBeat": 15 },
     { "id": 132280763, "name": "How Keanan Works",  "demon_type": 6, "rate": "mythic", "ptsBeat": 14 },
     { "id": 132529740, "name": "Keanan Is Special",  "demon_type": 6, "rate": "legendary", "ptsBeat": 14 },
+    { "id": 123753221, "name": "Keananmare",  "demon_type": 7, "rate": "epic", "ptsBeat": 14 },
     { "id": 131279920, "name": "Caput Keanandi",  "demon_type": 6, "rate": "mythic", "ptsBeat": 14 },
     { "id": 133600508, "name": "KeAtRaY",  "demon_type": 6, "rate": "epic", "ptsBeat": 14 },  
     { "id": 129646769, "name": "Keanan No Force",  "demon_type": 6, "rate": "feature", "ptsBeat": 14 },
