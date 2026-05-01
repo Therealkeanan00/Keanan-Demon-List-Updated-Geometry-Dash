@@ -6,5 +6,6 @@
     { "id": 135904450, "name": "Keanan Ship Trials",  "demon_type": 6, "rate": "legendary", "ptsBeat": 14 },
     { "id": 135241711, "name": "Keanan Is Ron",  "demon_type": 6, "rate": "mythic", "ptsBeat": 8 },
     { "id": 135358299, "name": "Keanan's Hell",  "demon_type": 6, "rate": "featured", "ptsBeat": 8 },
+    { "id": 137480998, "name": "Keanan Decay's..",  "demon_type": 5, "rate": "epic", "ptsBeat": 7 },
     { "id": 139306629, "name": "Keanan Corridor II",  "demon_type": 4, "rate": "rated", "ptsBeat": 1 }
 ]
