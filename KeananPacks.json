@@ -1,1 +1,17 @@
-
+{
+    "the_keanan_circles_pack": {
+        "name": "",
+        "levels": [135638375,138535611,136912493,132393059,137397434,135106600],
+        "stars": 50
+    },
+      "the_godlike_pack": {
+        "name": "The Godlike Pack",
+        "levels": [133678715,133397962,132280763,136877416,135241711,136059228],
+        "stars": 40
+    },
+    "krenono_pack": {
+        "name": "The Krenono Pack",
+        "levels": [130250431,123646413,123646390],
+        "stars": 30
+    }
+}
