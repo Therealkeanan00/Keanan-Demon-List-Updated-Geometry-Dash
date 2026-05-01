@@ -24,5 +24,6 @@
     { "id": 139235927, "name": "Kycles",  "demon_type": 7, "rate": "epic", "ptsBeat": 17 },
     { "id": 123646466, "name": "Keanan CLutterfunk",  "demon_type": 7, "rate": "epic", "ptsBeat": 15 },
     { "id": 131277954, "name": "Keanan Is Based",  "demon_type": 7, "rate": "legandary", "ptsBeat": 15 },
-    { "id": 136629316, "name": "Kash Full Version",  "demon_type": 7, "rate": "legandary", "ptsBeat": 15 }
+    { "id": 136629316, "name": "Kash Full Version",  "demon_type": 7, "rate": "legandary", "ptsBeat": 15 },
+    { "id": 139363950, "name": "Keanan Dried Mango",  "demon_type": 5, "rate": "featured", "ptsBeat": 8 }
 ]
