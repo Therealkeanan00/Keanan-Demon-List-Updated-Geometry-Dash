@@ -3,5 +3,6 @@
     { "id": 137397434, "name": "Keanan is Flarin",  "demon_type": 7, "rate": "mythic", "ptsBeat": 17 },
     { "id": 137795293, "name": "Keanan's Breaking Point",  "demon_type": 7, "rate": "mythic", "ptsBeat": 17 },
     { "id": 134973634, "name": "Keanan Wave Trials",  "demon_type": 7, "rate": "mythic", "ptsBeat": 17 },
-    { "id": 139515564, "name": "La Kkeana",  "demon_type": 7, "rate": "legendary", "ptsBeat": 17 }
+    { "id": 139515564, "name": "La Kkeana",  "demon_type": 7, "rate": "legendary", "ptsBeat": 17 },
+    { "id": 139527996, "name": "Supersonic Keanan",  "demon_type": 7, "rate": "featured", "ptsBeat": 7 }
 ]
