@@ -19,6 +19,7 @@
     { "id": 133763783, "name": "Keanan's Bloodline",  "demon_type": 6, "rate": "mythic", "ptsBeat": 10 },
     { "id": 136328329, "name": "GREEN KEANAN",  "demon_type": 5, "rate": "featured", "ptsBeat": 8 },
     { "id": 133102844, "name": "Keanan X Steps Up",  "demon_type": 5, "rate": "legendary", "ptsBeat": 8 },
+    { "id": 139363950, "name": "Keanan Dried Mango",  "demon_type": 5, "rate": "featured", "ptsBeat": 8 },
     { "id": 134773859, "name": "Keanan Loves Fun!",  "demon_type": 5, "rate": "legendary", "ptsBeat": 8 },
     { "id": 123753250, "name": "Back On Keanan",  "demon_type": 5, "rate": "epic", "ptsBeat": 7 },
     { "id": 136059228, "name": "Press Keanan!",  "demon_type": 5, "rate": "epic", "ptsBeat": 7 },
@@ -28,4 +29,5 @@
     { "id": 137663424, "name": "Kears",  "demon_type": 4, "rate": "feature", "ptsBeat": 1 },
     { "id": 133149552, "name": "The Party In Keany",  "demon_type": 4, "rate": "legendary", "ptsBeat": 1 },
     { "id": 137735286, "name": "Keanan Pirate Raid",  "demon_type": 4, "rate": "epic", "ptsBeat": 1 }
+
 ]
