@@ -28,8 +28,15 @@
         "bc":[234,0,255]
     },
     {
-        "name": "Keanan trial Pack",
+        "name": "The Keanan Trial Pack",
         "levels": [134973634,135904450],
+        "difficulty": 10,
+        "tc":[0,255,200],
+        "bc":[5,105,86]
+    },
+    {
+        "name": "The Keanan Tower Pack",
+        "levels": [133397962,133271025,130332454],
         "difficulty": 10,
         "tc":[0,255,200],
         "bc":[5,105,86]
