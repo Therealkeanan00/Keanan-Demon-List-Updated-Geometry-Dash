@@ -1,25 +1,23 @@
 [
     {
-        "the_keanan_circles_pack": {
-            "name": "The Keanan Circles Pack",
-            "levels": [135638375,138535611,136912493,132393059,137397434,135106600],
-            "difficulty": 10,
-            "tc":[255,0,0],
-            "bc":[163,2,2]
-        },
-          "the_godlike_pack": {
-            "name": "The Godlike Pack",
-            "levels": [133678715,133397962,132280763,136877416,135241711,136059228],
-            "difficulty": 10,
-            "tc":[0,51,255],
-            "bc":[0,132,255]
-        },
-        "krenono_pack": {
-            "name": "The Krenono Pack",
-            "levels": [130250431,123646413,123646390],
-            "difficulty": 10,
-            "tc":[255,0,221],
-            "bc":[234,0,255]
-        }
+        "name": "The Keanan Circles Pack",
+        "levels": [135638375,138535611,136912493,132393059,137397434,135106600],
+        "difficulty": 10,
+        "tc":[255,0,0],
+        "bc":[163,2,2]
+    },
+      "the_godlike_pack": {
+        "name": "The Godlike Pack",
+        "levels": [133678715,133397962,132280763,136877416,135241711,136059228],
+        "difficulty": 10,
+        "tc":[0,51,255],
+        "bc":[0,132,255]
+    },
+    "krenono_pack": {
+        "name": "The Krenono Pack",
+        "levels": [130250431,123646413,123646390],
+        "difficulty": 10,
+        "tc":[255,0,221],
+        "bc":[234,0,255]
     }
 ]
