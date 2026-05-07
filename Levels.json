@@ -67,5 +67,6 @@
     { "id": 135358299, "name": "Keanan's Hell",  "demon_type": 5, "rate": "featured", "ptsBeat": 8 },
     { "id": 137480998, "name": "Keanan Decay's..",  "demon_type": 4, "rate": "epic", "ptsBeat": 7 },
     { "id": 139527996, "name": "Supersonic Keanan",  "demon_type": 6, "rate": "featured", "ptsBeat": 7 },
-    { "id": 139306629, "name": "Keanan Corridor II",  "demon_type": 3, "rate": "rated", "ptsBeat": 1 }
+    { "id": 139306629, "name": "Keanan Corridor II",  "demon_type": 3, "rate": "rated", "ptsBeat": 1 },
+    { "id": 139826026, "name": "Keanan Is Angry",  "demon_type": 6, "rate": "legandary", "ptsBeat": 15 }
 ]
