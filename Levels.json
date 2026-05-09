@@ -70,5 +70,6 @@
     { "id": 139306629, "name": "Keanan Corridor II",  "demon_type": 3, "rate": "rated", "ptsBeat": 1 },
     { "id": 139826026, "name": "Keanan Is Angry",  "demon_type": 6, "rate": "legendary", "ptsBeat": 15 },
     { "id": 139876612, "name": "Keanan Got Talent",  "demon_type": 6, "rate": "legendary", "ptsBeat": 30 },
-    { "id": 139945056, "name": "Can't Let Kean",  "demon_type": 6, "rate": "mythic", "ptsBeat": 30 }
+    { "id": 139945056, "name": "Can't Let Kean",  "demon_type": 6, "rate": "mythic", "ptsBeat": 30 },
+    { "id": 139826641, "name": "KeaNaLiXZCliH",  "demon_type": 5, "rate": "featured", "ptsBeat": 13 }
 ]
