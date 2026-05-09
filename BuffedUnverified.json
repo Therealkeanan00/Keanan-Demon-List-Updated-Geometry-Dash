@@ -2,6 +2,7 @@
     { "id": 135165984, "name": "KeananIsLowkShivering", "demon_type": 6, "rate": "mythic", "ptsBeat": 30 },
     { "id": 129317413, "name": "Keanan Is Racist",  "demon_type": 6, "rate": "mythic", "ptsBeat": 30 },
     { "id": 139876612, "name": "Keanan Got Talent",  "demon_type": 6, "rate": "legendary", "ptsBeat": 30 },
+    { "id": 139945056, "name": "Can't Let Kean",  "demon_type": 6, "rate": "mythic", "ptsBeat": 30 },
     { "id": 132532863, "name": "Keanan Drop",  "demon_type": 6, "rate": "legendary", "ptsBeat": 30 },
     { "id": 129707565, "name": "Keanan's Final Straw",  "demon_type": 6, "rate": "epic", "ptsBeat": 30 },
     { "id": 125560947, "name": "Keanan Goes Explorin'",  "demon_type": 6, "rate": "epic", "ptsBeat": 30 },
@@ -20,8 +21,8 @@
     { "id": 137226785, "name": "Keanan Is Morphed",  "demon_type": 6, "rate": "rated", "ptsBeat": 17 },
     { "id": 123646486, "name": "Keanan00 Dominator",  "demon_type": 6, "rate": "epic", "ptsBeat": 17 },
     { "id": 139235927, "name": "Kycles",  "demon_type": 6, "rate": "epic", "ptsBeat": 17 },
+    { "id": 139826026, "name": "Keanan Is Angry",  "demon_type": 6, "rate": "legendary", "ptsBeat": 17 },
     { "id": 123646466, "name": "Keanan CLutterfunk",  "demon_type": 6, "rate": "epic", "ptsBeat": 15 },
     { "id": 131277954, "name": "Keanan Is Based",  "demon_type": 6, "rate": "legendary", "ptsBeat": 15 },
-    { "id": 139826026, "name": "Keanan Is Angry",  "demon_type": 6, "rate": "legendary", "ptsBeat": 15 },
     { "id": 136629316, "name": "Kash Full Version",  "demon_type": 6, "rate": "legendary", "ptsBeat": 15 }
 ]
