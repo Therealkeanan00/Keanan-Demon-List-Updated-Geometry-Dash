@@ -35,7 +35,7 @@
     { "id": 136624345, "name": "KEANAN IS WET", "demon_type": 6, "rate": "rated", "ptsBeat": 17 },
     { "id": 134773859, "name": "Keanan Loves Fun!", "demon_type": 4, "rate": "legendary", "ptsBeat": 8 },
     { "id": 133678715, "name": "Keanan Machine", "demon_type": 6, "rate": "mythic", "ptsBeat": 20 },
-    { "id": 129646769, "name": "Keanan No Force", "demon_type": 5, "rate": "feature", "ptsBeat": 14 },
+    { "id": 129646769, "name": "Keanan No Force", "demon_type": 5, "rate": "featured", "ptsBeat": 14 },
     { "id": 137735286, "name": "Keanan Pirate Raid", "demon_type": 3, "rate": "epic", "ptsBeat": 1 },
     { "id": 135904450, "name": "Keanan Ship Trials", "demon_type": 5, "rate": "legendary", "ptsBeat": 14 },
     { "id": 138535611, "name": "Keanan Silhouette", "demon_type": 6, "rate": "epic", "ptsBeat": 15 },
