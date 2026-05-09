@@ -14,7 +14,7 @@
     { "id": 123646349, "name": "Keanan00 Polargeist", "demon_type": 5, "rate": "epic", "ptsBeat": 10 },
     { "id": 123646466, "name": "Keanan CLutterfunk", "demon_type": 6, "rate": "epic", "ptsBeat": 15 },
     { "id": 137606675, "name": "Keanan Calamity", "demon_type": 6, "rate": "legendary", "ptsBeat": 30 },
-    { "id": 139306629, "name": "Keanan Corridor II", "demon_type": 3, "rate": "rated", "ptsBeat": 1 },
+    { "id": 139306629, "name": "Keanan Corridor II", "demon_type": 3, "rate": "featured", "ptsBeat": 1 },
     { "id": 137480998, "name": "Keanan Decay's..", "demon_type": 4, "rate": "epic", "ptsBeat": 7 },
     { "id": 139363950, "name": "Keanan Dried Mango", "demon_type": 4, "rate": "featured", "ptsBeat": 8 },
     { "id": 132532863, "name": "Keanan Drop", "demon_type": 6, "rate": "legendary", "ptsBeat": 30 },
