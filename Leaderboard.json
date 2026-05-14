@@ -1,12 +1,12 @@
 [
-    { "id": 17308922, "name": "Nickel", "points": 241 },
+    { "id": 17308922, "name": "Nickel", "points": 251 },
     { "id": 25523588, "name": "Gloininkk", "points": 207 },
+    { "id": 20845462, "name": "Kingy", "points": 179 },
     { "id": 21901200, "name": "Ballberry The 3rd", "points": 112 },
     { "id": 29209469, "name": "GhostFly", "points": 76 },
     { "id": 37418794, "name": "Landon", "points": 65 },
     { "id": 30576486, "name": "Therealkeanan00", "points": 53 },
-    { "id": 20845462, "name": "Kingy", "points": 51 },
-    { "id": 17310431, "name": "Kth11211", "points": 50 },
+    { "id": 17310431, "name": "Kth11211", "points": 59 },
     { "id": 31201055, "name": "SounyxGD", "points": 42 },
     { "id": 23409199, "name": "Norsa", "points": 36 },
     { "id": 35620847, "name": "K1nglert", "points": 32 },
@@ -18,5 +18,6 @@
     { "id": 0, "name": "Rhydabear", "points": 10 },
     { "id": 26801244, "name": "Cutebever", "points": 8 },
     { "id": 11609439, "name": "Raine", "points": 7 },
-    { "id": 33880522, "name": "aDuckGod", "points": 2 }
+    { "id": 33880522, "name": "aDuckGod", "points": 2 },
+    { "id": 0, "name": "Spiraton", "points": 1 }
 ]
