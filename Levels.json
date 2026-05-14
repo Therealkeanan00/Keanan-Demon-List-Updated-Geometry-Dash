@@ -51,7 +51,7 @@
     { "id": 135358299, "name": "Keanan's Hell", "demon_type": 5, "rate": "featured", "ptsBeat": 8 },
     { "id": 136912493, "name": "Keanan's Jawline", "demon_type": 6, "rate": "epic", "ptsBeat": 17 },
     { "id": 135165984, "name": "KeananIsLowkShivering", "demon_type": 6, "rate": "mythic", "ptsBeat": 30 },
-    { "id": 123753221, "name": "Keananmare", "demon_type": 6, "rate": "epic", "ptsBeat": 14 },
+    { "id": 123753221, "name": "Keananmare", "demon_type": 5, "rate": "epic", "ptsBeat": 14 },
     { "id": 138855442, "name": "Kean Isn't Denouement", "demon_type": 6, "rate": "featured", "ptsBeat": 17 },
     { "id": 137823670, "name": "Keanifestation", "demon_type": 6, "rate": "legendary", "ptsBeat": 15 },
     { "id": 133600508, "name": "KeAtRaY", "demon_type": 5, "rate": "epic", "ptsBeat": 14 },
