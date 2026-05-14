@@ -42,6 +42,7 @@
     { "id": 138535611, "name": "Keanan Silhouette", "demon_type": 6, "rate": "epic", "ptsBeat": 15 },
     { "id": 135788052, "name": "Keanan Spaced Out", "demon_type": 6, "rate": "mythic", "ptsBeat": 15 },
     { "id": 134973634, "name": "Keanan Wave Trials", "demon_type": 6, "rate": "mythic", "ptsBeat": 17 },
+    { "id": 140343053, "name": "Keanan Ball Trials",  "demon_type": 6, "rate": "legendary", "ptsBeat": 17 },
     { "id": 133102844, "name": "Keanan X Steps Up", "demon_type": 4, "rate": "legendary", "ptsBeat": 8 },
     { "id": 133763783, "name": "Keanan's Bloodline", "demon_type": 5, "rate": "mythic", "ptsBeat": 10 },
     { "id": 137795293, "name": "Keanan's Breaking Point", "demon_type": 6, "rate": "mythic", "ptsBeat": 17 },
