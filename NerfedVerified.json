@@ -1,4 +1,5 @@
 [
+    { "id": 140420173, "name": "Keanan is Flarin",  "demon_type": 6, "rate": "mythic", "ptsBeat": 17 },
     { "id": 138535611, "name": "Keanan Silhouette",  "demon_type": 6, "rate": "epic", "ptsBeat": 15 },
     { "id": 137823670, "name": "Keanifestation", "demon_type": 6, "rate": "legendary", "ptsBeat": 15 },
     { "id": 135106600, "name": "Sakupen Keanan", "demon_type": 5, "rate": "featured", "ptsBeat": 14 },
