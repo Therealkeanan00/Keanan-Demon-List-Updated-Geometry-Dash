@@ -76,6 +76,7 @@
     { "id": 133271025, "name": "Sewers Beneath Keanan",  "demon_type": 6, "rate": "mythic", "ptsBeat": 10 },
     { "id": 135762615, "name": "Shardskapes", "demon_type": 5, "rate": "epic", "ptsBeat": 14 },
     { "id": 139527996, "name": "Supersonic Keanan", "demon_type": 6, "rate": "featured", "ptsBeat": 7 },
+    { "id": 130332454, "name": "Tower Of Keanan",  "demon_type": 6, "rate": "featured", "ptsBeat": 8 },
     { "id": 133149552, "name": "The Party In Keany", "demon_type": 3, "rate": "legendary", "ptsBeat": 1 },
     { "id": 134617748, "name": "You've Been Keanan'd", "demon_type": 4, "rate": "featured", "ptsBeat": 6 }
 ]
