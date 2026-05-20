@@ -69,6 +69,7 @@
     { "id": 130250431, "name": "Krenono Tripple Buff", "demon_type": 6, "rate": "epic", "ptsBeat": 17 },
     { "id": 139235927, "name": "Kycles", "demon_type": 6, "rate": "epic", "ptsBeat": 17 },
     { "id": 139515564, "name": "La Kkeana", "demon_type": 6, "rate": "legendary", "ptsBeat": 17 },
+    { "id": 137600174, "name": "My Meat To Furries 2", "demon_type": 10, "rate": "mythic", "ptsBeat": 99999999 },
     { "id": 135638375, "name": "Nine Keys", "demon_type": 10, "rate": "legendary", "ptsBeat": 30 },
     { "id": 140545653, "name": "Of Keanbrosia",  "demon_type": 6, "rate": "legendary", "ptsBeat": 17 },
     { "id": 136059228, "name": "Press Keanan!", "demon_type": 5, "rate": "mythic", "ptsBeat": 7 },
